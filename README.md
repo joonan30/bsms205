@@ -63,64 +63,56 @@ After successfully completing this course you should be able to:
 
 ### Session 2. Human Heredity and Inheritance 
 
-[Session 2-1. Mendelian Genetics (3/8)](https://docs.google.com/presentation/d/1tEW_04VI9SXdT6WLgStrNhzf6JkNj9Lq_gP85cXtCv0/edit?usp=sharing)
+[Session 2-1. Mendelian Genetics](https://docs.google.com/presentation/d/1tEW_04VI9SXdT6WLgStrNhzf6JkNj9Lq_gP85cXtCv0/edit?usp=sharing)
 
-[Session 2-2. Biometrical Genetics (3/10)](https://docs.google.com/presentation/d/1u-e-ytC5tHonohRTwuHQXzwJbmqH0dFJn6edTV0QcHQ/edit?usp=sharing)
+[Session 2-2. Biometrical Genetics](https://docs.google.com/presentation/d/1u-e-ytC5tHonohRTwuHQXzwJbmqH0dFJn6edTV0QcHQ/edit?usp=sharing)
 
-[Session 2-3. Hardy Weinberg Equilibrium (3/15)](https://docs.google.com/presentation/d/1o0hjI4So1NP1M0LkZ8h1TH9Sul3BhcqnuFNM08e5JoQ/edit?usp=sharing)
+[Session 2-3. Hardy Weinberg Equilibrium](https://docs.google.com/presentation/d/1o0hjI4So1NP1M0LkZ8h1TH9Sul3BhcqnuFNM08e5JoQ/edit?usp=sharing)
 
-[Session 2-4. Chromosome and Sex (3/17)](https://docs.google.com/presentation/d/1Bql_RaWuhyA3-qxN7ptd1gxYHXrPTSNFMzIU36BqscA/edit?usp=sharing)
+[Session 2-4. Chromosome and Sex](https://docs.google.com/presentation/d/1Bql_RaWuhyA3-qxN7ptd1gxYHXrPTSNFMzIU36BqscA/edit?usp=sharing)
 
-[Session 2-5. Gene (3/22)](https://docs.google.com/presentation/d/1tQ31wSuqBeagauwaHGDS1ofnN3vQeq3dSujRpfxsUr0/edit?usp=sharing)
+[Session 2-5. Gene](https://docs.google.com/presentation/d/1tQ31wSuqBeagauwaHGDS1ofnN3vQeq3dSujRpfxsUr0/edit?usp=sharing)
 
-[Session 2-6. Heritability (3/24)](https://docs.google.com/presentation/d/1RbueXnChI6-qXs3VaRSWLjj26MSfIvVRmr1woR1f884/edit?usp=sharing)
-
-Review Session & QnA (3/29)
-
-Exam (3/31)
+[Session 2-6. Heritability](https://docs.google.com/presentation/d/1RbueXnChI6-qXs3VaRSWLjj26MSfIvVRmr1woR1f884/edit?usp=sharing)
 
 
 ### Session 3. Mutation and Population
 
-[Session 3-1. Mutation (4/5, 4/7)](https://docs.google.com/presentation/d/1D3HU_lb2R7Tqib-wQDtcBho0b83al_AVL_pcpGuOPZ0/edit?usp=sharing)
+[Session 3-1. Mutation](https://docs.google.com/presentation/d/1D3HU_lb2R7Tqib-wQDtcBho0b83al_AVL_pcpGuOPZ0/edit?usp=sharing)
 
-[Session 3-2. Mutation Classification (4/12)](https://docs.google.com/presentation/d/1LMk_7ShJuK04z_Erh-RhsWyib6Twxp1-CqEC_5EHhc0/edit?usp=sharing)
+[Session 3-2. Mutation Classification](https://docs.google.com/presentation/d/1LMk_7ShJuK04z_Erh-RhsWyib6Twxp1-CqEC_5EHhc0/edit?usp=sharing)
 
-[Session 3-3. Linkage disequilibrium and haplotype (4/14)](https://docs.google.com/presentation/d/1aoMFtDiMFvVmTCkxcPRg9b4Wo_2ynQER9DGRKslsHlY/edit?usp=sharing)
+[Session 3-3. Linkage disequilibrium and haplotype](https://docs.google.com/presentation/d/1aoMFtDiMFvVmTCkxcPRg9b4Wo_2ynQER9DGRKslsHlY/edit?usp=sharing)
 
-[Session 3-4. Population structure (4/19)](https://docs.google.com/presentation/d/1rNA7NMrjlbuLVsu52EoMCXDKX9w0HM9WcznIDs9MDq0/edit?usp=sharing)
+[Session 3-4. Population structure](https://docs.google.com/presentation/d/1rNA7NMrjlbuLVsu52EoMCXDKX9w0HM9WcznIDs9MDq0/edit?usp=sharing)
 
-[Session 3-5. Inbreeding (4/21)](https://docs.google.com/presentation/d/1-Yfdf-VHaQ2YA299PipwPgRDdegtYYaKeFZJsfIXpyY/edit?usp=sharing)
+[Session 3-5. Inbreeding](https://docs.google.com/presentation/d/1-Yfdf-VHaQ2YA299PipwPgRDdegtYYaKeFZJsfIXpyY/edit?usp=sharing)
 
-Review Session & QnA (4/26)
+Review Session & QnA
 
-Exam (4/28)
+Exam 1
 
 
 ### Session 4. Human Genome 
 
-[Session 4-1. Genome(5/3)](https://docs.google.com/presentation/d/1gweBoSrRoegoeoBW5yx4D4NJLxk8MNKKlJz8aqBjssA/edit?usp=sharing)
+[Session 4-1. Genome](https://docs.google.com/presentation/d/1gweBoSrRoegoeoBW5yx4D4NJLxk8MNKKlJz8aqBjssA/edit?usp=sharing)
 
-[Session 4-2. Next generation sequencing(5/10)](https://docs.google.com/presentation/d/12ioYn9M-IytQJCurEPWGMMA8XMQ3m7ns_UDgFMJISvI/edit?usp=sharing)
+[Session 4-2. Next generation sequencing](https://docs.google.com/presentation/d/12ioYn9M-IytQJCurEPWGMMA8XMQ3m7ns_UDgFMJISvI/edit?usp=sharing)
 
-[Session 4-3. Data modality1(5/17)](https://docs.google.com/presentation/d/1D3TENJ5M5oTzO6WY0vX4TSmV4rnmS7Ql2M6taMxpXDo/edit?usp=sharing)
+[Session 4-3. Data modality1](https://docs.google.com/presentation/d/1D3TENJ5M5oTzO6WY0vX4TSmV4rnmS7Ql2M6taMxpXDo/edit?usp=sharing)
 
-[Session 4-4. Data modality2(5/24, 5/26)](https://docs.google.com/presentation/d/1RBr8JdBAsXo1P2VdNuYITaRAZ2BBQouRnbV7LQN1ezo/edit?usp=sharing)
-
-Review Session & QnA (5/31)
-
-Exam (6/2)
+[Session 4-4. Data modality2](https://docs.google.com/presentation/d/1RBr8JdBAsXo1P2VdNuYITaRAZ2BBQouRnbV7LQN1ezo/edit?usp=sharing)
 
 
 ### Session 5. Genetics in human diseases 
 
-[Session 5-1. Genetic architecture (6/7)](https://docs.google.com/presentation/d/1qAfNT0yZ3Snkb5zArz_1dgfp25zDMJo8il9qFeiUw2g/edit?usp=sharing)
+[Session 5-1. Genetic architecture](https://docs.google.com/presentation/d/1qAfNT0yZ3Snkb5zArz_1dgfp25zDMJo8il9qFeiUw2g/edit?usp=sharing)
 
-[Session 5-2. Experimental design (6/9)](https://docs.google.com/presentation/d/1BZUBz69HhtR9DH70IFpEjY6uOAOiYFTdKx8f0ilZbdQ/edit?usp=sharing)
+[Session 5-2. Experimental design](https://docs.google.com/presentation/d/1BZUBz69HhtR9DH70IFpEjY6uOAOiYFTdKx8f0ilZbdQ/edit?usp=sharing)
 
-QnA will be on Slack as Exam period
+Review Session & QnA
 
-Exam (6/21)
+Exam 2
 
 
 # 5. Misc
