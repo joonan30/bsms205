@@ -125,5 +125,5 @@ Final exam papers([questions](https://docs.google.com/document/d/1VaCC9sKGd3oQkC
 
 [Questions](https://www.dropbox.com/s/v6a5qt7jfbve041/QnA.docx?dl=0)
 
-
+[Mid term 2022](https://www.dropbox.com/s/yocwpcc0bbvvbms/BSMS205_midterm_2022_v2.docx?dl=0)
 
