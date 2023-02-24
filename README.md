@@ -123,7 +123,5 @@ Mid term ([questions](https://docs.google.com/document/d/1SBrnTt_cbxD_zVLHUZzfAI
 
 Final exam papers([questions](https://docs.google.com/document/d/1VaCC9sKGd3oQkCU8B8rkPwLs3d4NG09EmVOuu99eE3I/edit?usp=sharing))
 
-[Questions](https://www.dropbox.com/s/v6a5qt7jfbve041/QnA.docx?dl=0)
-
 [Mid term 2022](https://www.dropbox.com/s/yocwpcc0bbvvbms/BSMS205_midterm_2022_v2.docx?dl=0)
 
