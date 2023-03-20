@@ -127,4 +127,4 @@ Final exam papers([questions](https://docs.google.com/document/d/1VaCC9sKGd3oQkC
 
 [Final term 2022](https://www.dropbox.com/s/5e7yrh44ay1rgb4/BSMS205_final_2022.docx?dl=0)
 
-[VCF](https://www.youtube.com/watch?v=Qgb4Ja5VnUQ&ab_channel=Bioinformatics101)
+[VCF](https://www.youtube.com/watch?v=FFiBcLk-avQ&ab_channel=KatharineME)
