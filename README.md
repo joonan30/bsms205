@@ -1,5 +1,3 @@
-Update: 2022/02/23
-
 ## Genetics 
 BSMS205, Spring
 
@@ -58,8 +56,8 @@ After successfully completing this course you should be able to:
 
 ### Session 1. Introduction 
 
-[Session 1. Introduction](https://docs.google.com/presentation/d/1nzKG3PIKfAO0R0ey1BXtMGEcvwIVBlZfXViZvzLGRkc/edit?usp=sharing)
-
+[Session 1-1. Course Orientation](https://docs.google.com/presentation/d/1nzKG3PIKfAO0R0ey1BXtMGEcvwIVBlZfXViZvzLGRkc/edit?usp=sharing)
+[Session 1-2. Modern Genetics](https://docs.google.com/presentation/d/1QvsDxrZod6KrfxVDHmtbq68CERxoXe29k5IqOi07Rqo/edit?usp=sharing)
 
 ### Session 2. Human Heredity and Inheritance 
 
@@ -88,9 +86,6 @@ After successfully completing this course you should be able to:
 
 [Session 3-5. Inbreeding](https://docs.google.com/presentation/d/1-Yfdf-VHaQ2YA299PipwPgRDdegtYYaKeFZJsfIXpyY/edit?usp=sharing)
 
-Review Session & QnA
-
-Exam 1
 
 
 ### Session 4. Human Genome 
@@ -110,10 +105,6 @@ Exam 1
 
 [Session 5-2. Experimental design](https://docs.google.com/presentation/d/1BZUBz69HhtR9DH70IFpEjY6uOAOiYFTdKx8f0ilZbdQ/edit?usp=sharing)
 
-Review Session & QnA
-
-Exam 2
-
 
 # 5. Misc
 
@@ -129,4 +120,3 @@ Final exam papers([questions](https://docs.google.com/document/d/1VaCC9sKGd3oQkC
 
 [VCF](https://www.youtube.com/watch?v=FFiBcLk-avQ&ab_channel=KatharineME)
 
-[QnA](https://docs.google.com/document/d/1O0boxQKdloYKYywT7pfUsujXOdAiSeR2bqoA4Z7cS3U/edit?usp=sharing)
