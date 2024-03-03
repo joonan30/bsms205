@@ -58,6 +58,7 @@ After successfully completing this course you should be able to:
 ### Session 1. Introduction 
 
 [Session 1-1. Course Orientation](https://docs.google.com/presentation/d/1nzKG3PIKfAO0R0ey1BXtMGEcvwIVBlZfXViZvzLGRkc/edit?usp=sharing)
+
 [Session 1-2. Modern Genetics](https://docs.google.com/presentation/d/1QvsDxrZod6KrfxVDHmtbq68CERxoXe29k5IqOi07Rqo/edit?usp=sharing)
 
 ### Session 2. Human Heredity and Inheritance 
