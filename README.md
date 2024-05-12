@@ -4,7 +4,7 @@ BSMS205, Spring
 ## Instructor
 Joon-Yong An, PhD
 
-Assistant Professor of Human Genetics
+Associate Professor of Human Genetics
 School of Biosystem and Biomedical Science, College of Health Science
 
 
